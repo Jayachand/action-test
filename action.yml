@@ -1,0 +1,5 @@
+name: "Just Action Test"
+description: "Tests and publishes them"
+branding:
+  icon: activity
+  color: purple
